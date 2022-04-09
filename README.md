@@ -3,7 +3,7 @@
 **GIT COMMANDS**
 
 # git Config
-'$ git config--global user.name [name]'<br/>
+`$ git config--global user.name [name]`<br/>
 '$ git config--global user.email [email]<br/>
 It is used to add user's name and email address with user commit
 
