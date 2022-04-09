@@ -3,12 +3,12 @@
 **GIT COMMANDS**
 
 # git Config
-'$ git config--global user.name [name] <br/>'
-'$ git config--global user.email [email] <br/>'
+'$ git config--global user.name [name]'<br/>
+'$ git config--global user.email [email]'<br/>
 It is used to add user's name and email address with user commit
 
 # git init
-'$ git init [repository name] <br/>'
+'$ git init [repository name] '<br/>
 It is used to create a new repository.
 
 # git remote add origin
