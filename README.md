@@ -3,39 +3,39 @@
 **GIT COMMANDS**
 
 # Git Config
-$ git config--global user.name [name]
-$ git config--global user.email [email]
+$ git config--global user.name [name] br/
+$ git config--global user.email [email] br/
 It is used to add user's name and email address with user commit
 
 # Git init
-$ git init [repository name]
+$ git init [repository name] br/
 It is used to create a new repository.
 
 # Git remote add origin
-$ git remote add origin [url]
+$ git remote add origin [url] br/
 It is used to specify remote repository from local repository.
 
 # Git clone 
-$ git clone [url]
+$ git clone [url] br/
 It is used to download a repository.
 
 # Git add
-$ git add [file]
-It is used to add a file to the staging area.
-$ git add*
+$ git add [file] br/
+It is used to add a file to the staging area br/
+$ git add* br/
 It is used to add one or more files to the staging area.
 
 # git commit
-$ git commit -m [message to be displayed]
+$ git commit -m [message to be displayed] br/
 It is used to record snapshots permanently in the version history.
 
 # git diff
-$ git diff
-It is used to find the differences between files which have not been staged yet.
-$ git diff--staged
-It is used to find the differences between files in the staging area and the latest version present.
-$ git diff [first branch]...[second branch]
-It is used to find the differences between two branches.
+$ git diff br/
+It is used to find the differences between files which have not been staged yet.br/
+$ git diff--staged br/
+It is used to find the differences between files in the staging area and the latest version present br/
+$ git diff [first branch]...[second branch] br/
+It is used to find the differences between two branches br/
 
 # git log
 $ git log
